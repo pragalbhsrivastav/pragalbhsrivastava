@@ -6,7 +6,7 @@ My Name is Pragalbh and I opted NLP for intern .
 * C
 * C++
 
-## MAchine Learning 
+## Machine Learning 
 * linear algebra with python
 * Supervised learning -Regression and classification
 * Unsupervised Learning - Clustering 
@@ -47,6 +47,7 @@ My Name is Pragalbh and I opted NLP for intern .
 
 ### Project with NLP
 1.Text Processing.
+
 2.Implementation of Word2Vec.
   * Description- It is a two layer neural network to generate word embedding from given a 
     text corpus.Word Embedding-Mapping of words in a vector space.Its input is a text corpus and its output is a set of vectors: feature vectors 
