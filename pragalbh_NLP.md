@@ -1,6 +1,11 @@
 ### Hi there 👋 
 My Name is Pragalbh and I opted NLP for intern .
- 
+
+### Language
+* Core Python
+* C
+* C++
+
 ## MAchine Learning 
 * linear algebra with python
 * Supervised learning -Regression and classification
