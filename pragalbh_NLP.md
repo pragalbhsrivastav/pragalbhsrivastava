@@ -33,12 +33,22 @@ My Name is Pragalbh and I opted NLP for intern .
  
 ### NLP
 * what is NLP
+* History of NLP
+* Advantages of NLP
+* Disadvantages of NLP
+* Components of NLP
+* Applications of NLP
+* NLP pipeline?
+* Phases of NLP
 * techniques used in NLP
 * Tokenization
 * Stemming
 * Lemmmatization
 * TF-IDF
 * BagOfWords
+* NLP APIs
+* NLP Libraries
+* Difference between Natural language and Computer languag
 
 
 ### Projects with ML and DL
