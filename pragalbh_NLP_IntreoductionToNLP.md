@@ -12,6 +12,8 @@
 
 2. Why NLP :question:
   
+![why nlp1](https://user-images.githubusercontent.com/47269967/93641819-9559b780-fa1a-11ea-96f8-aaf8b497d25d.png)
+
   
 
   
