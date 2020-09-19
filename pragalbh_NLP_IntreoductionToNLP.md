@@ -1,6 +1,7 @@
-### HEY THERE 
+**HEY THERE 
 It's Me :- Pragalbh
-:mailbox: :- shaineyshrivastava@gmail.com
+
+**:mailbox: :- shaineyshrivastava@gmail.com
 
 ### INTRODUCTION To NLP
 
