@@ -1,5 +1,4 @@
-Hey There My Name Is Pragalbh
-You Can Reach Me With :-mshaineyshrivastava@gmail.com
+
 
 ### Introduction to NLP
 
