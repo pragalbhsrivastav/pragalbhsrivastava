@@ -43,7 +43,13 @@
   * Sentiment Analysis :- Sentiment analysis (also known as opinion mining or emotion AI) refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. Sentiment analysis is widely applied to voice of the customer materials such as reviews and survey responses, online and social media, and healthcare materials for applications that range from marketing to customer service to clinical medicine. 
     
  
-  
+### IMPLEMENTATION OF NLP 
+
+* ![Screenshot (135)](https://user-images.githubusercontent.com/47269967/93658365-a0333d00-fa58-11ea-8a93-a7b0518cfb01.png)
+
+* ![Screenshot (136)](https://user-images.githubusercontent.com/47269967/93658369-a45f5a80-fa58-11ea-8fc8-7dfd740017f2.png)
+
+* ![Screenshot (137)](https://user-images.githubusercontent.com/47269967/93658359-8db90380-fa58-11ea-912e-3e72bc933768.png)
   
     
     
