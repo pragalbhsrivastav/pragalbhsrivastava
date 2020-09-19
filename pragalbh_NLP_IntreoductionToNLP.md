@@ -1,4 +1,4 @@
-### Introduction to NLP
+### INTRODUCTION To NLP
 
 1. What is NLP :question:
   
@@ -40,8 +40,7 @@
 
   
   
-  * Sentiment Analysis :- Sentiment analysis (also known as opinion mining or emotion AI) refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. Sentiment analysis is widely applied to voice of the customer materials such as reviews and survey responses, online and social media, and healthcare materials for applications that range from marketing to customer service to clinical medicine. 
-    
+  * Sentiment Analysis :- Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques. Sentiment analysis tools allow businesses to identify customer sentiment toward products, brands or services in online feedback.
  
 ### IMPLEMENTATION OF NLP 
 
