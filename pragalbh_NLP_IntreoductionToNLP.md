@@ -1,5 +1,3 @@
-
-
 ### Introduction to NLP
 
 1. What is NLP :question:
@@ -46,6 +44,7 @@
     
  
 ### IMPLEMENTATION OF NLP 
+
 
 * ![Screenshot (135)](https://user-images.githubusercontent.com/47269967/93658365-a0333d00-fa58-11ea-8a93-a7b0518cfb01.png)
 
