@@ -1,7 +1,7 @@
-**HEY THERE 
-It's Me :- Pragalbh
+HEY THERE :wave:
+It's Me :- Pragalbh :innocent:
 
-**:mailbox: :- shaineyshrivastava@gmail.com
+:mailbox: :- shaineyshrivastava@gmail.com
 
 ### INTRODUCTION To NLP
 
