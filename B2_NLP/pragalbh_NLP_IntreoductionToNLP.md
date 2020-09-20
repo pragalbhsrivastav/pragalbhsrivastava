@@ -56,6 +56,98 @@ It's Me :- Pragalbh :innocent:
 * ![Screenshot (136)](https://user-images.githubusercontent.com/47269967/93658369-a45f5a80-fa58-11ea-8fc8-7dfd740017f2.png)
 
 * ![Screenshot (137)](https://user-images.githubusercontent.com/47269967/93658359-8db90380-fa58-11ea-912e-3e72bc933768.png)
+
+
+### NLP Library
+ 
+1. NLTK
+  * NLTK is the leading and one of the best natural language processing libraries for Python.
+  * It have over 100 corpora and related and related lexical resources ,such as WordNet , web Text Corpus and so on.
+  * It has a lot of pre-defined models as well, which helps us to analyze things very quickly.
+  * Open-Source library that is available on windows,Macos and Linux.
+  
+Installation
+  
+  * pip install nltk
+
+Features
+  
+  * Stemming
+  * Recommendation
+  * Sentiment analysis
+  * Translation
+
+2. Gensim
+  * Gensim is an open-source vector space and topic modelling toolkit.
+  * Gensim uses numpy and sciPy.
+  * Gensim is designed for data stemming ,habdle large text collections and efficient incremental algorithms.
+  
+ Installation
+  
+  * pip install gensim
+ 
+ Features
+  
+  * FastText
+  * Word2Vec
+  * Latent Semantic Analysis 
+  * Latent dirichlet Allocation
+  * tf-idf ( Term frequency-inverse document frequency)
+  
+  3. TextBlob
+   * TextBlob is a python library for processing textual data.
+   * It also offers smooth integration with other programming Language.
+  
+ Installation
+ 
+   * pip install -U tectblob
+   * python _m textblob.download_corpora
+  
+Features
+   * Tokenization
+   * Parsing
+   * Spelling Corrrection
+   * Sentiment Analysis
+   * Part-Of_Speech tagging
+   * n-grams
+   * Translation
+   * word & phrase frequencies
+   
+4. coreNLP
+  * coreNLP is a suite of tools for implementing a natural language processing .
+  * Originally written in Java,coreNLP words with other language such as python ,javascript and many more.
+  
+Installation
+  * pip install stanford-corenlp
+ 
+Features
+  * Lemmatization
+  * Part-Of-Speech Tagging
+  * Morphological Tagging
+  * Named ENtity Recognition
+  * Tokenization
+  * Sentence Splitting
+  
+5. spaCy 
+  * spaCy is open source library for advance NLP.
+  * spaCy is designed specially for production use and helps us to bulid applications that process and understand large volume of text.
+  * It can be used to built information extration or natural language understanding systems or to pre-process text for deep learning.
+ 
+Installation
+  * pip install -U spacy
+
+Features
+  * Tokenization
+  * POS Tagging 
+  * Dependency Parsing
+  * Lemmatization
+  * Sentence Boundary Detection
+  * Named Entity Recognition
+  * Entity Linking
+  * Text Classification
+  * Similarity
+  
+ 
   
     
     
