@@ -15,6 +15,14 @@ It's Me :- Pragalbh :innocent:
                           
 ![what-is-nlp](https://user-images.githubusercontent.com/47269967/93630169-26bf2e80-fa07-11ea-92fc-c1afc9c53ec4.png)
 
+Examples of NLP:
+
+  * Email filters: Email filters are one of the most basic and initial applications of NLP online. It started out with spam filters, uncovering certain words or  phrases that signal a spam message. But filtering has upgraded, just like early adaptations of NLP.
+  * Smart assistants: Smart assistants like Apple’s Siri and Amazon’s Alexa recognize patterns in speech thanks to voice recognition, then infer meaning and provide a useful response. We’ve become used to the fact that we can say “Hey Siri,” ask a question, and she understands what we said and responds with relevant answers based on context.
+  * Search results: Search engines use NLP to surface relevant results based on similar search behaviors or user intent so the average person finds what they need without being a search-term wizard. 
+  * Predictive text: Things like autocorrect, autocomplete, and predictive text are so commonplace on our smartphones that we take them for granted. Autocomplete and predictive text are similar to search engines in that they predict things to say based on what you type, finishing the word or suggesting a relevant one. And autocorrect will sometimes even change words so that the overall message makes more sense.
+  * Text analytics: Text analytics converts unstructured text data into meaningful data for analysis using different linguistic, statistical, and machine learning techniques.  
+
 
 2. Why NLP :question:
   
